@@ -3,10 +3,7 @@
   "description": "Automated site speed testing against competitors",
   "version": "0.0.1",
   "homepage": "https://bitbucket.org/hxshortbreaks/speed-test",
-  "author": {
-    "name": "Shortbreaks",
-    "email": "shortbreaksdev@holidayextras.com"
-  },
+  "author": "Shortbreaks <shortbreaksdev@holidayextras.com>",
   "repository": {
     "type": "git",
     "url": "git@bitbucket.org:hxshortbreaks/speed-test.git"
@@ -19,15 +16,14 @@
   "scripts": {
     "test": "grunt test"
   },
-  "devDependencies": {
+  "dependencies": {
+    "mongodb": "^1.4.6",
+    "mongoose": "^3.8.12",
     "grunt": "~0.4.3",
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-jscs-checker": "~0.4.0",
     "webpagetest": "^0.2.4",
     "q": "^1.0.1"
   },
-  "dependencies": {
-    "mongodb": "^1.4.6",
-    "mongoose": "^3.8.12"
-  }
+  "devDependencies": {}
 }
