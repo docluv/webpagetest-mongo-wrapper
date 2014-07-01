@@ -3,4 +3,5 @@ speedTestResults.0
 speedTestResults.ns
 mongod.lock
 _tmp
+json/config.json
 journal
