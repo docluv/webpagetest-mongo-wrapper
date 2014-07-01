@@ -1,6 +1,8 @@
 node_modules
 speedTestResults.0
 speedTestResults.ns
+local.0
+local.ns
 mongod.lock
 _tmp
 json/config.json
