@@ -1,1 +1,6 @@
 node_modules
+speedTestResults.0
+speedTestResults.ns
+mongod.lock
+_tmp
+journal

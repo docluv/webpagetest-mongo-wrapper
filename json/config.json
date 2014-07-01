@@ -4,7 +4,7 @@
 	"databaseUrl": "mongodb://localhost/speedTestResults",
 	"sites": {
 		"1" : "www.legolandholidays.com",
-		"2" : "www.chessingtonholidays.co.uk",
+		"2" : "www.lastminute.com",
 		"3" : "www.alton-towers-breaks.com",
 		"4" : "www.paultonsbreaks.com",
 		"5" : "www.play-and-stay.com",
@@ -16,7 +16,7 @@
 		"11" : "www.westendtheatrebreaks.com",
 		"12" : "www.justlondontheatrebreaks.com",
 		"13" : "www.hoteldirect.co.uk",
-		"14" : "www.lastminute.com",
+		"14" : "www.chessingtonholidays.co.uk",
 		"15" : "www.legoland.co.uk",
 		"16" : "www.thorpepark.com",
 		"17" : "www.chessington.com",
