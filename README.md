@@ -22,15 +22,15 @@ Fill in config.json with API Key, server url, database url & sites you want to t
 
 Download monogdb (http://www.mongodb.org/) & run the following command from inside the directory
 
-'''
+```
 $ mongod --dbpath /PATH/TO/webpagetest-wrapper.git
-'''
+```
 
 In another window, in the same directory, run the following command.
 
-'''
+```
 $ mongo
-'''
+```
 
 ### Otherwise ###
 
