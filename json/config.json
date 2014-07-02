@@ -1,8 +1,8 @@
 {
-	"apiKey": "0c3414805f364eada89371220de2fc1c", // API Key for webpagetest.org
-	"serverUrl": "www.webpagetest.org", // Default to webpagetest.org unless you are running form local
-	"databaseUrl": "mongodb://localhost/speedTestResults", // Where does your database live e.g. mongodb://localhost/speedTestResults
-	"sites": { // Bundle of sites put down for us to loop
+	"apiKey": "0c3414805f364eada89371220de2fc1c",
+	"serverUrl": "www.webpagetest.org",
+	"databaseUrl": "mongodb://localhost/speedTestResults",
+	"sites": {
 		"1" : "www.legolandholidays.com",
 		"2" : "www.lastminute.com",
 		"3" : "www.alton-towers-breaks.com",
