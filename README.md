@@ -20,9 +20,10 @@ $ npm install
 
 Fill in config.json with API Key, server url, database url & sites you want to test
 
-API key - Key for your server, if your using webpagetest this can be aquired from Patrick Meenan <pmeenan@webpagetest.org> <br/>
+API key - Key for your server, if your using webpagetest this can be aquired from Patrick Meenan <pmeenan@webpagetest.org>
 - serverUrl - URL to request our tests from, default webpagetest.org
 - databaseUrl - Where does your database live e.g. mongodb://localhost/speedTestResults
+- webPageTestOptions - List all options you want to pass into the webpagetest node [wrapper](https://github.com/marcelduran/webpagetest-api#options-1)
 - Sites - Bundle of sites put down for us to loop over e.g.
    "1" : "www.siteone.com",
 

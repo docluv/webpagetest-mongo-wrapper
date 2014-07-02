@@ -2,6 +2,13 @@
 	"apiKey": "0c3414805f364eada89371220de2fc1c",
 	"serverUrl": "www.webpagetest.org",
 	"databaseUrl": "mongodb://yellowbrickroad:yellowbrickroad@ds031978.mongolab.com:31978/webpagetest-db",
+	"pollResults": 30,
+	"testRuns": 1,
+	"webPageTestOptions": {
+		"pollResults": 30,
+		"runs": 1,
+		"pageSpeed": true
+	},
 	"sites": {
 		"1" : "www.legolandholidays.com",
 		"2" : "www.lastminute.com",
