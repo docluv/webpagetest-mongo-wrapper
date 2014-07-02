@@ -1,3 +1,16 @@
+/*
+
+This needs to be filled out or you will have ap roblem
+
+API key - Key for your server, if your using webpagetest this can be aquired from Patrick Meenan <pmeenan@webpagetest.org>
+serverUrl - URL to request our tests from, default webpagetest.org
+databaseUrl - Where does your database live e.g. mongodb://localhost/speedTestResults
+Sites - Bundle of sites put down for us to loop over e.g.
+	"1" : "www.siteone.com",
+	"2" : "www.sitetwo.co.uk"
+
+*/
+
 {
 	"apiKey": "0c3414805f364eada89371220de2fc1c",
 	"serverUrl": "www.webpagetest.org",
