@@ -24,8 +24,8 @@ API key - Key for your server, if your using webpagetest this can be aquired fro
 serverUrl - URL to request our tests from, default webpagetest.org  
 databaseUrl - Where does your database live e.g. mongodb://localhost/speedTestResults  
 Sites - Bundle of sites put down for us to loop over e.g.  
-⋅⋅⋅ ⋅⋅⋅"1" : "www.siteone.com",  
-⋅⋅⋅ ⋅⋅⋅"2" : "www.sitetwo.co.uk"  
+..."1" : "www.siteone.com",  
+..."2" : "www.sitetwo.co.uk"  
 
 ### If you are running locally ###
 
