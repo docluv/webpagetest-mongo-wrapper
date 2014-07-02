@@ -21,15 +21,16 @@ $ npm install
 Fill in config.json with API Key, server url, database url & sites you want to test
 
 API key - Key for your server, if your using webpagetest this can be aquired from Patrick Meenan <pmeenan@webpagetest.org> <br/>
-serverUrl - URL to request our tests from, default webpagetest.org <br/>
-databaseUrl - Where does your database live e.g. mongodb://localhost/speedTestResults <br/>
-Sites - Bundle of sites put down for us to loop over e.g. <br/>
-	"1" : "www.siteone.com", <br/>
-	"2" : "www.sitetwo.co.uk" <br/>
+- serverUrl - URL to request our tests from, default webpagetest.org
+- databaseUrl - Where does your database live e.g. mongodb://localhost/speedTestResults
+- Sites - Bundle of sites put down for us to loop over e.g.
+   "1" : "www.siteone.com",
+
+   "2" : "www.sitetwo.co.uk"
 
 ### If you are running locally ###
 
-Download monogdb (http://www.mongodb.org/) & run the following command from inside the directory
+Download [monogdb](http://www.mongodb.org/) & run the following command from inside the directory
 
 ```
 $ mongod --dbpath /PATH/TO/webpagetest-wrapper.git
