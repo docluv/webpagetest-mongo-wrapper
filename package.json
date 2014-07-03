@@ -16,12 +16,14 @@
   "scripts": {
     "test": "grunt test"
   },
+  "devDependencies": {
+  	"grunt": "~0.4.3",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-jscs-checker": "~0.4.0",
+  }
   "dependencies": {
     "mongodb": "^1.4.6",
     "mongoose": "^3.8.12",
-    "grunt": "~0.4.3",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-jscs-checker": "~0.4.0",
     "webpagetest": "^0.2.4",
     "q": "^1.0.1",
     "lodash": "^2.4.1"
