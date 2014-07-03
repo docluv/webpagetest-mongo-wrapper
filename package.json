@@ -1,12 +1,12 @@
 {
-  "name": "speed-test",
-  "description": "Automated site speed testing against competitors",
+  "name": "webpagetest-mongo-wrapper",
+  "description": "Automated site speed tests and push results to mongo",
   "version": "0.0.2",
-  "homepage": "https://bitbucket.org/hxshortbreaks/speed-test",
+  "homepage": "https://github.com/Shortbreaks/webpagetest-mongo-wrapper",
   "author": "Shortbreaks <shortbreaksdev@holidayextras.com>",
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:hxshortbreaks/speed-test.git"
+    "url": "git@github.com:Shortbreaks/webpagetest-mongo-wrapper.git"
   },
   "license": "MIT",
   "main": "index",
