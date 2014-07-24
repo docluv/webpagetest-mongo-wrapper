@@ -1,7 +1,7 @@
 {
   "name": "webpagetest-mongo-wrapper",
   "description": "Automated site speed tests and push results to mongo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/Shortbreaks/webpagetest-mongo-wrapper",
   "author": "Shortbreaks <shortbreaksdev@holidayextras.com>",
   "repository": {
